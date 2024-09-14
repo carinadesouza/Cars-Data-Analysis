@@ -1,6 +1,3 @@
-Here’s the `README.md` in proper markdown format with headers using `#`:
-
----
 
 # Exploratory Data Analysis on Cars Dataset
 
@@ -48,6 +45,3 @@ A **dashboard** will be created using **Tabular**, which will provide interactiv
 ## Conclusion
 The EDA process successfully cleaned the dataset, visualized relationships between features, and prepared the data for future machine learning models. Outliers and missing values were appropriately handled, ensuring that the dataset is ready for further analysis. The **Tabular** dashboard will offer users a comprehensive and interactive way to explore the data.
 
----
-
-This format uses proper markdown headings with `#` to organize the information clearly.
